@@ -48,7 +48,7 @@ makeMiddleEarth();
 // var addLand = document.createElement("article");
 // addLand.innerhtml = lands
 // addLand.setAttribute("ul", "li");
-}
+// }
 
 // makeMiddleEarth();
 // console.log(addLand);
